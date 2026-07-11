@@ -17,6 +17,9 @@ struct ContentView: View {
                 Text("Gabriel Tham")
                     .foregroundStyle(.white)
                     .font(.system(size: 30, ))
+                Text("Anjali Y")
+                    .foregroundStyle(.white)
+                    .font(.system(size: 30, ))
           
             }
             .padding()
